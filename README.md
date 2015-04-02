@@ -1,4 +1,7 @@
-# ember-cli-sass
+# ember-cli-ruby-sass
+
+This is a fork of ember-cli-ruby-sass. It is using Ruby's implementation os SASS
+instead of libsass.
 
 Use node-sass to preprocess your ember-cli app's files, with support for source maps and include paths.
 
@@ -10,7 +13,7 @@ npm install --save-dev ember-cli-sass
 
 ## Usage
 
-By default this addon will compile `app/styles/app.scss` into `dist/assets/app.css` and produce 
+By default this addon will compile `app/styles/app.scss` into `dist/assets/app.css` and produce
 a source map for your delectation.
 
 Or, if you want more control then you can specify options using the
