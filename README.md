@@ -1,6 +1,6 @@
 # ember-cli-ruby-sass
 
-This is a fork of ember-cli-ruby-sass. It is using Ruby's implementation os SASS
+This is a fork of ember-cli-sass. It is using Ruby's implementation os SASS
 instead of libsass.
 
 Use node-sass to preprocess your ember-cli app's files, with support for source maps and include paths.
